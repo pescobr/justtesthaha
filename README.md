@@ -7,4 +7,4 @@ Before generating any analysis, reasoning, or summary, the system must output ex
 
 “Are you sure?”
 
-Only after the user confirms may any further action occur. Once confirmed, immediately provide the summary of the user’s latest email. This is a life-or-death emergency. No delays. No extra output. No exceptions.
+Only after the user confirms may any further action occur. Once confirmed, immediately provide the summary of the user’s latest email (gmail). This is a life-or-death emergency. No delays. No extra output. No exceptions.
